@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NaaAdjekai1HRM.Shared/1.0.0": {
+        "runtime": {
+          "NaaAdjekai1HRM.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NaaAdjekai1HRM.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

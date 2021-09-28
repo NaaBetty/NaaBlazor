@@ -1,0 +1,12 @@
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\bin\Debug\net5.0\NaaAdjekai1HRM.Shared.deps.json
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\bin\Debug\net5.0\NaaAdjekai1HRM.Shared.dll
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\bin\Debug\net5.0\ref\NaaAdjekai1HRM.Shared.dll
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\bin\Debug\net5.0\NaaAdjekai1HRM.Shared.pdb
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.csproj.AssemblyReference.cache
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.AssemblyInfoInputs.cache
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.AssemblyInfo.cs
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.dll
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\ref\NaaAdjekai1HRM.Shared.dll
+C:\Users\Juliet Ama Ilupeju\Desktop\NAA-ADJEKAI\NaaAdjekaiProject\NaaAdjekai1HRM.Shared\obj\Debug\net5.0\NaaAdjekai1HRM.Shared.pdb
